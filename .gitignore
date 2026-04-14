@@ -1,0 +1,4 @@
+.DS_Store
+
+# Internal-only — do not publish
+latex/02_internal_tracker/
