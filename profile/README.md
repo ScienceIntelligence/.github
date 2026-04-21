@@ -39,3 +39,7 @@ We welcome:
 - funders and compute partners supporting open scientific infrastructure.
 
 If this matters to you, reach out and help build it.
+
+## Contact
+
+team@researchskills.ai
