@@ -1,58 +1,35 @@
-# OpenScientists
+# Science Intelligence
 
-OpenScientists is an open research initiative for building AI scientists that can reason, investigate, and create new knowledge in collaboration with humans.
+**AI-driven science will be the most important technological turning point in human history — and our mission is to ensure an open-source force exists to keep its capabilities in the hands of humanity.**
 
-We want to make scientific discovery more open, reproducible, and scalable by combining frontier AI systems with rigorous research workflows.
+## Why this matters
 
-## Mission
+We believe **AI-driven science** will change how humanity discovers, builds, and heals. Scientific research is moving from the bronze age into the industrial age.
 
-Our mission is to develop open infrastructure, research agendas, and collaborative processes for AI-assisted science.
+A century ago, physics underwent a similar transition: meaningful progress began to require larger particle accelerators, global telescope arrays, and coordinated human effort at unprecedented scale. Now that same transition is happening across **every discipline at once**.
 
-We care about:
-- rigorous thinking over hype
-- open and reproducible research
-- human–AI collaboration, not blind automation
-- building tools that help people do better science
+Our mission is to ensure that an **open-source force** exists to support AI-driven science. The capabilities ahead — **frontier AI mathematicians, frontier AI physicists, new ways to cure cancer** — should not be monopolized by any single company or institution. We will work to ensure they belong to humanity.
 
-## What we plan to do
+## Our tenets
 
-We are starting with a small set of practical goals:
-- define the vision for what an "open scientist" should be
-- build prototype workflows for AI-assisted literature review, hypothesis generation, experiment planning, and writing
-- create open benchmarks and evaluation standards for scientific reasoning systems
-- publish research notes, demos, and early tools in public
-- grow a network of researchers, engineers, and collaborators around the project
+- **01 — Belongs to humanity.** Scientific AI capabilities should not be monopolized by a single company or institution.
+- **02 — Built in public.** Knowledge, models, agents, evaluations, and discoveries should be open by default.
+- **03 — Scaled by coordination.** The next era of science needs shared infrastructure, standards, and compute.
+- **04 — Open to builders.** Scientists, engineers, labs, foundations, and partners can build this commons together.
 
-## Milestones
+## What we build
 
-### Near term
-- publish the initial project blurb and public roadmap
-- set up the organization and core repositories
-- write the first research and product direction documents
-- identify initial pilot collaborators and use cases
+Scientific AI needs more than models. It needs shared knowledge, trainable scientific models, agent harnesses, rigorous evaluation, and public discovery artifacts — built as open infrastructure.
 
-### Mid term
-- release early open-source tooling for research workflows
-- run pilot projects with collaborators
-- document lessons from real scientific use cases
-- define benchmark tasks and evaluation criteria
+- **01 — Scientific Knowledge.** A commons of research skills — authored by human experts, executed by AI agents.
+- **02 — Scientific Models.** Recipes that turn open base models into Skills-fluent scientific agent brains.
+- **03 — Scientific Agents.** An agent harness whose primitives are lab and literature native.
+- **04 — Scientific Evaluation.** A pluralistic research environment where AI agent scientists actually work.
+- **05 — Scientific Discovery.** The papers and findings we produce using our own stack.
 
-### Long term
-- build a credible open ecosystem for AI-assisted science
-- support research teams with reusable scientist agents and workflows
-- contribute to a future where scientific progress is faster, more trustworthy, and more widely shared
+## Get involved
 
-## What collaborators may need
+- See our research, pillars, and team at **[scienceintelligence.org](https://scienceintelligence.org)**.
+- Partnerships, collaborations, and press: **team@scienceintelligence.org**.
 
-Depending on the collaboration, useful resources include:
-- research collaborators with domain expertise
-- engineers for agents, tooling, infrastructure, and evaluation
-- compute and API credits for experiments
-- datasets, benchmark tasks, and real research workflows
-- feedback from labs, startups, and institutions that want to test practical use cases
-
-## Collaboration
-
-If you are interested in collaborating, contributing, or supporting the project, feel free to reach out.
-
-We are especially interested in people who care about open science, agentic AI, evaluation, and real-world research workflows.
+We are especially interested in researchers, engineers, labs, foundations, and venture partners who believe the scientific AI stack should stay open — and want to help build it.
